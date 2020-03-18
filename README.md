@@ -1,7 +1,7 @@
  # Welocme to Inshell
  
  ## What's Inshell?
- *Inshell is a shell script that can change software source and install the necessary software once for linux. *
+ *Inshell is a shell script that can change software source and install the necessary software once for linux.*
 
 **Why you wrote this script?**
  
@@ -25,6 +25,9 @@
 
 ## Exmples
 
+|||
+|-|-|
+|![20200319035816.png](http://ww1.sinaimg.cn/large/006YKa8tly1gcyq7x0smyj30m90gqgpc.jpg)|![20200319040929.png](http://ww1.sinaimg.cn/large/006YKa8tly1gcyq88iny7j30m60gptc6.jpg)|
 
 
 
