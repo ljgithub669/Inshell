@@ -1,2 +1,5 @@
-# install_by_shell
-使用shell脚本，一键换源，安装常用软件
+ # Welocme to Inshell
+ ----
+ 
+ ## What's Inshell?
+ Inshell is a shell script that to change source code and install software in one time for linux. 
